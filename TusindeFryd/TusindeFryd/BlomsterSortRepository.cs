@@ -14,7 +14,7 @@ namespace TusindeFryd
         {
             blomsterSorts.Add(blomsterSort);
         }
-
+        // hov hov
         public void RemoveFromList(BlomsterSort blomsterSort)
         {
             blomsterSorts.Remove(blomsterSort);
