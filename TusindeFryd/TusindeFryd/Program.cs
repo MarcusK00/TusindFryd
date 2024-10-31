@@ -10,11 +10,13 @@
             BlomsterSort blomsterSort1 = new BlomsterSort("Rose", 55);
             BlomsterSort blomsterSort2 = new BlomsterSort("Simon", 50, 27);
             BlomsterSort blomsterSort3 = new BlomsterSort("Rødbede", 20, 15, 0.5);
+            BlomsterSort blomsterSort4 = new BlomsterSort("Pastinak", 20, 65, 0.9);
 
             blomsterSortRepository.AddToList(blomsterSort);
             blomsterSortRepository.AddToList(blomsterSort1);
             blomsterSortRepository.AddToList(blomsterSort2);
             blomsterSortRepository.AddToList(blomsterSort3);
+            blomsterSortRepository.AddToList(blomsterSort4);
 
             //Console.WriteLine(blomsterSort.ToString());
             //Console.WriteLine(blomsterSort1.ToString());
