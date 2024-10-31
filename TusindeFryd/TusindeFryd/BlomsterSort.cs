@@ -9,7 +9,7 @@ namespace TusindeFryd
     public class BlomsterSort
     {
         private string _name = "";
-        private int _productionTimeInDays = 0;
+        private int _productionTimeInDays = 0; //Ay okay
         private int _halfLife = 0;
         private double _flowerSize = 0;
         //binary billede;
